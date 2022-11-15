@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "https://yulultra.github.io/csb-lyexvw/static/js/main.b4d6c365.chunk.js",
+    "main.js.map": "https://yulultra.github.io/csb-lyexvw/static/js/main.b4d6c365.chunk.js.map",
+    "runtime-main.js": "https://yulultra.github.io/csb-lyexvw/static/js/runtime-main.fa90f7ce.js",
+    "runtime-main.js.map": "https://yulultra.github.io/csb-lyexvw/static/js/runtime-main.fa90f7ce.js.map",
+    "index.html": "https://yulultra.github.io/csb-lyexvw/index.html",
+    "static/js/main.b4d6c365.chunk.js.LICENSE.txt": "https://yulultra.github.io/csb-lyexvw/static/js/main.b4d6c365.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa90f7ce.js",
+    "static/js/main.b4d6c365.chunk.js"
+  ]
+}
